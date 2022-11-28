@@ -1,0 +1,5 @@
+#EXTM3U
+
+#EXTINF:-1 ,canal1 24hrs
+
+http://45.232.210.1:8062/play/a0b6/index.m3u8
