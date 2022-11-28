@@ -1,0 +1,6 @@
+#EXTM3U
+
+#EXTINF:-1 ,Canal1HBO
+http://45.232.210.1:8062/play/a0b3/index.m3u8
+#EXTINF:-1 ,Canal2Disneychanel
+http://45.232.210.1:8062/play/a08n/index.m3u8
