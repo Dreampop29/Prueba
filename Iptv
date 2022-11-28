@@ -4,3 +4,75 @@
 http://45.232.210.1:8062/play/a0b3/index.m3u8
 #EXTINF:-1 ,Canal2Disneychanel
 http://45.232.210.1:8062/play/a08n/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MEXICO",ONCE NINOS (CLASES)
+https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=3315&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MEXICO",AZTECA 7.3 (CLASES)
+https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=3316&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MEXICO",AZTECA UNO HD
+https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=7&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MEXICO",AZ CLIC HD
+https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=11&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MEXICO",LAS ESTRELLAS
+https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=17&f=.m3u8
+#EXTINF:0 tvg-id="Canal5.mx" group-title="MEXICO",CANAL 5
+https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=20&f=.m3u8
+#EXTINF:0 tvg-id="Azteca7.mx" group-title="MEXICO",AZTECA 7
+https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=21&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MEXICO",NU9VE
+https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=24&f=.m3u8
+#EXTINF:0 tvg-id="OnceTV.mx" group-title="MEXICO",ONCE
+https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=25&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MEXICO",AZTECA UNO
+https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=27&f=.m3u8
+#EXTINF:0 tvg-id="TeleFormula.mx" group-title="MEXICO",TELEFORMULA SD
+https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=32&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MEXICO",MEXIQUENSE TV
+https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=44&f=.m3u8
+#EXTINF:0 tvg-id="AzCorazon.mx" group-title="MEXICO",AZ CORAZON
+https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=70&f=.m3u8
+#EXTINF:0 tvg-id="AzMundo.mx" group-title="MEXICO",AZ MUNDO
+https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=84&f=.m3u8
+#EXTINF:0 tvg-id="Azteca7.mx" group-title="MEXICO",AZTECA 7 HD
+https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=317&f=.m3u8
+#EXTINF:0 tvg-id="Azteca7.mx" group-title="MEXICO",AZTECA 7 HD (2)
+https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=322&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MEXICO",IMAGEN TV
+https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=2298&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MEXICO",MULTIMEDIOS MTY
+https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=2305&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MEXICO",APREDNE TV
+https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=401&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MEXICO",MULTIMEDIOS CDMX
+https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=1253&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MEXICO",NU9VE HD
+https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=1783&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MEXICO",LAS ESTRELLAS HD
+https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=1784&f=.m3u8
+#EXTINF:0 tvg-id="Canal5HD.mx" group-title="MEXICO",CANAL 5 HD (2)
+https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=1785&f=.m3u8
+#EXTINF:0 tvg-id="OnceTV.mx" group-title="MEXICO",ONCE HD
+https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=1942&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MEXICO",MVS TV
+https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=2149&f=.m3u8
+#EXTINF:0 tvg-id="TVC.mx" group-title="MEXICO",TVC
+https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=2156&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MEXICO",CANAL 4
+https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=2274&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MEXICO",CANAL 8
+https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=2307&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MEXICO",TELEVISA PUEBLA
+https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=2312&f=.m3u8
+#EXTINF:0 tvg-id="A+.civ" group-title="MEXICO",A+
+https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=2316&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MEXICO",TVMAS
+https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=2324&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MEXICO",CANAL DEL CONGRESO
+https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=2331&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MEXICO",MULTIMEDIOS CDMX
+https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=2352&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MEXICO",IMAGEN TV HD
+https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=2606&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MEXICO",ACADEMIA
+https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=2703&f=.m3u8
+#EXTINF:0 tvg-id="MultimediosMonterrey.mx" group-title="MEXICO",MULTIMEDIOS HD
+https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=2882&f=.m3u8
