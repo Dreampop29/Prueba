@@ -10,10 +10,18 @@ http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL105/PROFILE03.m3u8
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL107/PROFILE03.m3u8
 #EXTINF:-1 ,Canal 9
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL109/PROFILE03.m3u8
+#EXTINF:-1 , Telenovelas
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL275/PROFILE05.m3u8
+#EXTINF:-1 ,Telemundo
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL85/PROFILE05.m3u8
 #EXTINF:-1 ,TNT
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL435/PROFILE05.m3u8
 #EXTINF:-1 ,TNT Series
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL266/PROFILE05.m3u8
+#EXTINF:-1 ,De Pelicula
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL335/PROFILE05.m3u8
+#EXTINF:-1 ,De Película +
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL442/PROFILE05.m3u8
 #EXTINF:-1 ,Golden+
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL436/PROFILE05.m3u8
 #EXTINF:-1 ,Golden
@@ -42,8 +50,6 @@ http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL481/PROFILE05.m3u8
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL444/PROFILE05.m3u8
 #EXTINF:-1 ,Paramount channel
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL1726/PROFILE05.m3u8
-#EXTINF:-1 ,Telemundo
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL85/PROFILE05.m3u8
 #EXTINF:-1 ,STAR Channel
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL201/PROFILE05.m3u8
 #EXTINF:-1 ,Sony
@@ -61,11 +67,9 @@ http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL209/PROFILE05.m3u8
 #EXTINF:-1 , A&E
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL211/PROFILE05.m3u8
 #EXTINF:-1 , AXN
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL213/PROFILE05.m3u8
+http://iptvtree.es/qtvbox/w6kqBNLz48yf/907.ts
 #EXTINF:-1 , Distrito Comedia
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL272/PROFILE05.m3u8
-#EXTINF:-1 , Telenovelas
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL275/PROFILE05.m3u8
 #EXTINF:-1 ,HBO
 http://45.232.210.1:8062/play/a0b3/index.m3u8
 #EXTINF:-1 , HBO
