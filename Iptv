@@ -4,6 +4,8 @@
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL102/PROFILE03.m3u8
 #EXTINF:-1 , Las Estrellas HD
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL102/PROFILE05.m3u8
+#EXTINF:-1 , Foro Tv
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL104/PROFILE05.m3u8
 #EXTINF:-1 ,Canal 5
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL105/PROFILE03.m3u8
 #EXTINF:-1 Multimedios 6
@@ -12,6 +14,8 @@ http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2352/PROFILE05.m3u8
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL107/PROFILE03.m3u8
 #EXTINF:-1 ,Canal 9
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL109/PROFILE03.m3u8
+#EXTINF:-1 ,Imagen Tv
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2298/PROFILE05.m3u8
 #EXTINF:-1 ,Az Uno
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL113/PROFILE05.m3u8
 #EXTINF:-1 ,Az Click
@@ -86,6 +90,16 @@ http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL211/PROFILE05.m3u8
 http://iptvtree.es/qtvbox/w6kqBNLz48yf/907.ts
 #EXTINF:-1 , Distrito Comedia
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL272/PROFILE05.m3u8
+#EXTINF:-1 , Fox Sport 2
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL527/PROFILE05.m3u8
+#EXTINF:-1 , Fox Sport 3
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL178/PROFILE05.m3u8
+#EXTINF:-1 ,ESPN
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL561/PROFILE05.m3u8
+#EXTINF:-1 ,ESPN 2
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL558/PROFILE05.m3u8
+#EXTINF:-1 ,Adrenalina Sports
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL1799/PROFILE05.m3u8
 #EXTINF:-1 ,HBO
 http://45.232.210.1:8062/play/a0b3/index.m3u8
 #EXTINF:-1 , HBO
