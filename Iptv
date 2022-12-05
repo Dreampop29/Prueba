@@ -102,6 +102,16 @@ http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL558/PROFILE05.m3u8
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL1799/PROFILE05.m3u8
 #EXTINF:-1 ,Tvc Deportes
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2157/PROFILE05.m3u8
+#EXTINF:-1 ,History
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL353/PROFILE05.m3u8
+#EXTINF:-1 , National Go
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL377/PROFILE05.m3u8
+#EXTINF:-1 , Discovery
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL371/PROFILE05.m3u8
+#EXTINF:-1 , h&h
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL374/PROFILE05.m3u8
+#EXTINF:-1 , Lifetime
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL379/PROFILE05.m3u8
 #EXTINF:-1 ,HBO
 http://45.232.210.1:8062/play/a0b3/index.m3u8
 #EXTINF:-1 , HBO
